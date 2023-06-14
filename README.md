@@ -38,7 +38,7 @@ We are the Data Science for Health Services and Policy Research of the Instituto
 Our scientific interest lies in analysing healthcare systems as a determining factor in individual and population health. As the foundation for analysis, we reuse the digital data collected by the system from individual and population contacts, and we generate knowledge that can power healthcare policies that improve the healthcare system.
 
 ### Team
-- **Enrique Bernal Delgado MD PhD (Lead Researche Senior Researcher in Healthcare Services and Policies)**
+- **Enrique Bernal Delgado MD PhD (Lead Researcher Senior Researcher in Healthcare Services and Policies)**
 - Ester Angulo Pueyo PhD (Researcher in Healthcare Services and Policies)
 - Francisco Estupiñán Romero (Researcher in Healthcare Services and Policies)
 - Javier González Galindo (Data Engineer)
