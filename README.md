@@ -28,6 +28,7 @@ Como substrato de análisis reutilizamos los datos digitales recogidos por el si
 - [ICCONIC](https://cienciadedatosysalud.org/proyectos-de-investigacion/icconic/)
 - [PHIRI](https://cienciadedatosysalud.org/proyectos-de-investigacion/phiri/)
 - [REDISSEC](https://cienciadedatosysalud.org/proyectos-de-investigacion/redissec/)
+- [QUANTUM](https://cienciadedatosysalud.org/proyectos-de-investigacion/quantum/)
 - [RICAPPS](https://cienciadedatosysalud.org/proyectos-de-investigacion/ricapps/)
 - [TEHDAS](https://cienciadedatosysalud.org/proyectos-de-investigacion/tehdas/)
 
@@ -58,6 +59,7 @@ Our scientific interest lies in analysing healthcare systems as a determining fa
 - [ICCONIC](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/icconic/)
 - [PHIRI](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/phiri/)
 - [REDISSEC](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/redissec/)
+- [QUANTUM](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/quantum/)
 - [RICAPPS](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/ricapps/)
 - [TEHDAS](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/tehdas/)
 
