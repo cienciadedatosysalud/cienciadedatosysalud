@@ -21,8 +21,10 @@ Como substrato de análisis reutilizamos los datos digitales recogidos por el si
 ### Proyectos
 - [ATLAS VPM](https://cienciadedatosysalud.org/atlas-vpm/)
 - [BY-COVID](https://cienciadedatosysalud.org/proyectos-de-investigacion/by-covid/)
+- [BreastScan](https://cienciadedatosysalud.org/proyectos-de-investigacion/breastscan/)
 - [CONCEPT](https://cienciadedatosysalud.org/proyectos-de-investigacion/concept/)
 - [ECHO](https://cienciadedatosysalud.org/echo/)
+- [GREG](https://cienciadedatosysalud.org/proyectos-de-investigacion/greg/)
 - [HealthData@EU Pilot](https://cienciadedatosysalud.org/proyectos-de-investigacion/ehds/)
 - [HealthyCloud](https://cienciadedatosysalud.org/proyectos-de-investigacion/healthycloud/)
 - [ICCONIC](https://cienciadedatosysalud.org/proyectos-de-investigacion/icconic/)
@@ -31,6 +33,7 @@ Como substrato de análisis reutilizamos los datos digitales recogidos por el si
 - [QUANTUM](https://cienciadedatosysalud.org/proyectos-de-investigacion/quantum/)
 - [RICAPPS](https://cienciadedatosysalud.org/proyectos-de-investigacion/ricapps/)
 - [TEHDAS](https://cienciadedatosysalud.org/proyectos-de-investigacion/tehdas/)
+- [SHAIPED](https://cienciadedatosysalud.org/proyectos-de-investigacion/shaiped/)
 
 ### :uk: About us
 #### Data Science for Health Services and Policy Research
@@ -52,8 +55,10 @@ Our scientific interest lies in analysing healthcare systems as a determining fa
 ### Projects
 - [ATLAS VPM](https://cienciadedatosysalud.org/en/atlas-vpm/)
 - [BY-COVID](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/by-covid/)
+- [BreastScan](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/breastscan/)
 - [CONCEPT](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/concept/)
 - [ECHO](https://cienciadedatosysalud.org/en/echo/)
+- [GREG](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/greg/)
 - [HealthData@EU Pilot](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/ehds/)
 - [HealthyCloud](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/healthycloud/)
 - [ICCONIC](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/icconic/)
@@ -62,4 +67,5 @@ Our scientific interest lies in analysing healthcare systems as a determining fa
 - [QUANTUM](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/quantum/)
 - [RICAPPS](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/ricapps/)
 - [TEHDAS](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/tehdas/)
+- [SHAIPED](https://cienciadedatosysalud.org/en/proyectos-de-investigacion/shaiped/)
 
