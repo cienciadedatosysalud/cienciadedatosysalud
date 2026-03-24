@@ -10,7 +10,7 @@ Como substrato de análisis reutilizamos los datos digitales recogidos por el si
 ### Equipo
 - **Dr. Enrique Bernal Delgado (Investigador principal)**
 - Dra. Ester Angulo Pueyo (Investigadora en Políticas y Servicios Sanitarios)
-- Francisco Estupiñán Romero (Investigador en Políticas y Servicios Sanitarios)
+- Dr. Francisco Estupiñán Romero (Investigador en Políticas y Servicios Sanitarios)
 - Javier González Galindo (Ingeniero de datos)
 - Ramón Launa Garcés (Técnico Gestión proyectos europeos)
 - Dra. Natalia Martínez Lizaga (Investigadora en Políticas y Servicios Sanitarios)
@@ -44,7 +44,7 @@ Our scientific interest lies in analysing healthcare systems as a determining fa
 ### Team
 - **Enrique Bernal Delgado MD PhD (Lead Researcher Senior Researcher in Healthcare Services and Policies)**
 - Ester Angulo Pueyo PhD (Researcher in Healthcare Services and Policies)
-- Francisco Estupiñán Romero (Researcher in Healthcare Services and Policies)
+- Francisco Estupiñán Romero PhD (Researcher in Healthcare Services and Policies)
 - Javier González Galindo (Data Engineer)
 - Ramón Launa Garcés (International Project Manager)
 - Natalia Martínez Lizaga PhD MPH BSc (Researcher in Healthcare Services and Policies)
