@@ -17,6 +17,7 @@ Como substrato de análisis reutilizamos los datos digitales recogidos por el si
 - Dr. Manuel Ridao López (Investigador en Políticas y Servicios Sanitarios)
 - Miriam Seral Rodríguez (Técnico apoyo a la investigación)
 - Santiago Royo Sierra (Analista de datos de vida real)
+- Berta Olano Guillen (Investigadora en Inteligencia Artificial)
 
 ### Proyectos
 - [ATLAS VPM](https://cienciadedatosysalud.org/atlas-vpm/)
@@ -51,6 +52,7 @@ Our scientific interest lies in analysing healthcare systems as a determining fa
 - Manuel Ridao López PhD (Researcher in Healthcare Services and Policies)
 - Miriam Seral Rodríguez (Research Assistant)
 - Santiago Royo Sierra (Real-life data analyst)
+- Berta Olano Guillen (AI Researcher)
 
 ### Projects
 - [ATLAS VPM](https://cienciadedatosysalud.org/en/atlas-vpm/)
