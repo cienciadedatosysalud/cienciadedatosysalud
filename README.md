@@ -8,16 +8,17 @@ Nuestro interés científico descansa en el análisis de los Sistemas Sanitarios
 Como substrato de análisis reutilizamos los datos digitales recogidos por el sistema a partir de los contactos de individuos y poblaciones, y generamos conocimiento que pueda accionar políticas sanitarias dedicadas a mejorar el sistema sanitario.
 
 ### Equipo
-- **Dr. Enrique Bernal Delgado (Investigador principal)**
-- Dra. Ester Angulo Pueyo (Investigadora en Políticas y Servicios Sanitarios)
-- Dr. Francisco Estupiñán Romero (Investigador en Políticas y Servicios Sanitarios)
-- Javier González Galindo (Ingeniero de datos)
-- Ramón Launa Garcés (Técnico Gestión proyectos europeos)
-- Dra. Natalia Martínez Lizaga (Investigadora en Políticas y Servicios Sanitarios)
-- Dr. Manuel Ridao López (Investigador en Políticas y Servicios Sanitarios)
-- Miriam Seral Rodríguez (Técnico apoyo a la investigación)
-- Santiago Royo Sierra (Analista de datos de vida real)
-- Berta Olano Guillen (Investigadora en Inteligencia Artificial)
+- **Dr. Enrique Bernal Delgado (Investigador principal)** ORCID: [0000-0002-0961-3298](https://orcid.org/0000-0002-0961-3298)
+- Dra. Ester Angulo Pueyo (Investigadora en Políticas y Servicios de Salud) ORCID: [0000-0001-7442-3450](https://orcid.org/0000-0001-7442-3450)
+- Dr. Francisco Estupiñán Romero (Investigador en Políticas y Servicios de Salud) ORCID: [0000-0002-6285-8120](https://orcid.org/0000-0002-6285-8120)
+- Javier González Galindo (Ingeniero de datos) ORCID: [0000-0002-8783-5478](https://orcid.org/0000-0002-8783-5478)
+- Ramón Launa Garcés (Técnico Gestión proyectos europeos) ORCID: [0000-0003-2922-8749](https://orcid.org/0000-0003-2922-8749)
+- Dra. Natalia Martínez Lizaga (Investigadora en Políticas y Servicios de Salud) ORCID: [0000-0002-9586-7955](https://orcid.org/0000-0002-9586-7955) 
+- Dr. Manuel Ridao López (Investigador en Políticas y Servicios de Salud) ORCID: [0000-0001-7837-5759](https://orcid.org/0000-0001-7837-5759)
+- Miriam Seral Rodríguez (Técnico apoyo a la investigación) ORCID: [0000-0001-9365-4342](https://orcid.org/0000-0001-9365-4342)
+- Santiago Royo Sierra (Analista de datos de vida real) ORCID: [0000-0002-0048-4370](https://orcid.org/0000-0002-0048-4370)
+- Berta Olano Guillen (Investigadora en Inteligencia Artificial) ORCID: [0009-0004-9122-3521](https://orcid.org/0009-0004-9122-3521)
+- Blanca Romero Panadero (Investigadora en Políticas y Servicios de Salud) ORCID: [0009-0004-6481-2283](https://orcid.org/0009-0004-6481-2283)
 
 ### Proyectos
 - [ATLAS VPM](https://cienciadedatosysalud.org/atlas-vpm/)
@@ -53,6 +54,7 @@ Our scientific interest lies in analysing healthcare systems as a determining fa
 - Miriam Seral Rodríguez (Research Assistant)
 - Santiago Royo Sierra (Real-life data analyst)
 - Berta Olano Guillen (AI Researcher)
+- Blanca Romero Panadero (Researcher in Healthcare Servicies and Policies)
 
 ### Projects
 - [ATLAS VPM](https://cienciadedatosysalud.org/en/atlas-vpm/)
